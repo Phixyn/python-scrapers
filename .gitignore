@@ -105,3 +105,4 @@ tags
 
 # Summary/other output files and devlog.md
 *.md
+!README.md
